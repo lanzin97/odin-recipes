@@ -1,0 +1,23 @@
+
+#index-page {
+    background-color: rgb(104, 153, 103);
+}
+
+.title {
+    background-color: orange;
+    font-weight: 200;
+    text-align: center;
+}
+
+.receipes {
+    font-size: 40px;
+    background-color: rgb(19, 67, 109);
+    color: aliceblue;
+}
+
+.receipe {
+    background-color: navy;
+    color: wheat;
+    font-size: 18px;
+    font-weight: 700;
+}
