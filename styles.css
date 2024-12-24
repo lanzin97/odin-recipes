@@ -1,0 +1,27 @@
+* {
+    background-color: grey;
+    color: white;
+    font-family: Papyrus, sans-serif;
+}
+
+.all_recipe {
+    background-color: black;
+    color: white;
+    font-family: Monaco, sans-serif;
+}
+
+.all_recipe * {
+    background-color: black;
+    color: white;
+    font-family: Monaco, sans-serif;
+}
+
+.all_recipe h1 {
+    text-align: center;
+}
+
+.recipe_list {
+    font-size: 50px;
+    text-align: center;
+
+}
