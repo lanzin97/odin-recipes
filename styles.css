@@ -22,6 +22,36 @@
 
 .recipe_list {
     font-size: 50px;
-    text-align: center;
+    display: table;
+    /* text-align: center; */
+    margin: 0 auto;
 
+}
+
+ul,
+ol,
+div {
+    border: 1px solid white;
+}
+
+div {
+    padding: 5px 10px;
+}
+
+ul {
+    padding: 10px 30px;
+}
+
+ol {
+    padding: 10px 40px;
+}
+
+.main-ul {
+    padding: 20px 40px;
+    border: 0px;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
